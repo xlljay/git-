@@ -5,7 +5,7 @@
             <li>
               <div class="category_all">
                 <div class="category_titel clearfix">
-                  <h2>筛选类目111111</h2>
+                  <h2>1111筛选类目111111</h2>
                   <span @click='checkedAll($event)'>全部清空</span>
                 </div>
               </div>
