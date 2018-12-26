@@ -1,0 +1,55 @@
+/* 注：
+ * 颜色规范：
+ * red: #
+ * blue: #0181ec;
+ * yellow: #
+ * gray: #
+ */
+/*基本布局*/
+body{ color:#555; line-height:22px; background: #fafafa;}
+a{ color: #555;}
+/*.font-yen{font-family:'Microsoft YaHei',STXihei,MingLiu;}*/
+/*html,body{height:100%; width:100%; overflow:hidden;}*/
+/* CLEARFIX */
+.clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden;}
+* html .clearfix { height: 1%;}
+.clearfix { display: block;}
+input[type="text"],input[type="number"],input[type="password"],input[type="button"],input[type="submit"],textarea,button{outline: 0; -webkit-appearance:none; -moz-appearance:none; -webkit-tap-highlight-color:transparent;-webkit-transition:background-color;}
+/*header footer*/
+.m_header{max-width:1600px;height: 62px; margin: 0 auto; background: url(/static/img/header-bar_01.jpg) no-repeat center center; }
+.header_min { width: 1000px; margin: 0 auto;}
+.header_min h1{ float: left; line-height: 62px;}
+.header_min h1 img{ vertical-align: middle; }
+.m_search{ text-align: center; line-height: 62px; position: relative; }
+.m_search input{ width: 425px; height: 32px; padding: 0 10px; line-height: 32px; border-radius: 5px; color: #707070; }
+.m_search .search_icon,.nth_fis,.nth_two,.nth_ser,.nth_fou,.results_right em.nth_fir,.results_right em.nth_seg,.pst_left em.nth-oem,.pst_left em.nth-tem,.nth_ser_active,.nth_fou_active{background-size: 136px 41px; background: url(/static/img/zh-icon.png) no-repeat; display: inline-block; cursor: pointer;}
+.m_search .search_icon{ width: 15px; height: 15px; background-position: 0px 0px; position: absolute; left: 633px; top: 24px; cursor: pointer;}
+.m_login{ float: right; line-height: 62px; font-size: 14px; color: #fff;}
+.m_login .login_name{ text-decoration: underline; padding: 0 10px 0 0; }
+.m_login em{ padding: 0 15px; display: inline-block; }
+.m_login a{font-size: 14px; color: #fff;}
+.m_footer{ max-width: 1600px; background: #fff;  margin: 0 auto;}
+.footer_min{ width:1000px;  margin: 0 auto;}
+.footer_nav{ text-align: center; padding: 30px 0 5px 0; }
+.footer_nav a{ padding: 0 20px; }
+.footer_min p{ text-align: center; padding: 0 0 20px 0; font-size: 10px; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
