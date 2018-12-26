@@ -24,7 +24,7 @@
             <li>
               <div class="category_all">
                 <div class="category_titel clearfix">
-                  <h2>商家类型</h2>
+                  <h2>商家类型333</h2>
                   <span @click='checkedSingle($event)'>清空</span>
                 </div>
                 <div class="screening_list">
